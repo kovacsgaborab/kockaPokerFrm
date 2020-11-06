@@ -47,6 +47,7 @@ namespace kockaPokerFrm
             eredmeny = Erteke();
         }
 
+
         public void EgyDobas()
         {
             Random vel = new Random(Guid.NewGuid().GetHashCode());
